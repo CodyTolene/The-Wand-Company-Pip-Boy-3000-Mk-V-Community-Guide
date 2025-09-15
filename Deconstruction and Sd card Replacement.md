@@ -1,6 +1,6 @@
-# how to open your Pip-boy safely and optionally replace your sd card
+# how to open your Pip-boy safely and optionally replace your sd card (also manual reset)
 
-Below is a guide to opening your device and accessing the sd card safely, if you have already done this please skip to the section on formatting your card and replacing the files. Make sure you feel confident to do this as there are several small wires that can be easily damaged. 
+Below is a guide to opening your device and accessing the sd card safely, if you have already done this please skip to the section on formatting your card and replacing the files. Make sure you feel confident to do this as there are several small wires that can be easily damaged. The Pip-boy will take and micro sd card thats correctly formatted but for stability its recommended to keep it below 32gb.
 
 ## section 1: Preperation and opening the device
 
@@ -31,3 +31,26 @@ Step 6. **Carefully** Lift the wrist section of the Pip-Boy slightly upwards and
 
 Final step. Gently press in on the edge of the sd card to remove it. You should feel a click and it will pop out to be removed.
 ![exposed sd card](https://github.com/user-attachments/assets/a4559957-9989-4500-90ac-30a040e31c6d)
+
+
+## Section 2: Formatting and replacing your sd card
+
+Step 1. Plug the sd card into your computer and make a new folder called "pip-boy backup" in a place of your choice, then highlight all files on the sd card you just plugged in and copy them to the new folder exactly as they are. This is now your backup of the stock sd card OS. If you do not wish to restore your pip-boy to any previously saved version or replace the sd card you can skip to the end of this section and return the sd card to its slot on the main board, otherwise continue to follow this guide.
+
+Step 2. Whether you are replacing the sd card with a larger one or resetting an already used card the first step is to reformat, this will wipe the card of all data so ensure you have backed up the cards contents first. Then load the card into a drive management tool of your choice and format it to the following specifications (note your software may only allow you to select the first option, this isnt ideal but should still work):
+
+* Volume name: Pip-Boy
+* format: FAT or FAT32 if the card is bigger than 4gb
+* Cluster size: 32kb
+* Boot selection: non bootable
+* Partition scheme: MBR
+* Target system: BIOS or UEFI
+
+Once you have selected the above options and formatted the card you can move on to adding the files.
+
+Step 3. Either extract a zip of the current os or copy files from a backup of the current os to your newly formatted card, it should match the image below unless the pip-boy was previously modded and you are aiming to retain the modifications, returning the sd card to its stock state will effectively count as a reset and wipe all non factory additions.
+<img width="1554" height="928" alt="Screenshot - Finder15September2025@2x" src="https://github.com/user-attachments/assets/d473034e-1c0f-4a00-bc72-a87476be399b" />
+
+Its also important to try and ensure the version of the OS you copy over matches the version you previously had installed. If you are upgrading or downgrading the OS version please ensure you follow the last secttions optional step to "reflash", for more information on this please check the guide section on the system flash.
+
+Step 4. Once the files on the sd card match you can eject your card from your computer and reinsert it into the device. Ensure you click it into place so its fully seated within the board.
