@@ -2,9 +2,9 @@
 
 Below is a guide to opening your device and accessing the sd card safely, if you have already done this please skip to the section on formatting your card and replacing the files. Make sure you feel confident to do this as there are several small wires that can be easily damaged. The Pip-boy will take and micro sd card thats correctly formatted but for stability its recommended to keep it below 32gb.
 
-## section 1: Preperation and opening the device
+## Section 1: Preperation and opening the device
 
-Step 1. Ensure you're ready to do this, you will need: a clear and well lit workspace, a small philips head screwdriver, a pair of needle nose pliers (optional). T
+Step 1. Ensure you're ready to do this, you will need: a clear and well lit workspace, a small philips head screwdriver, a pair of needle nose pliers (optional).
 ![Photo of tools needed](https://github.com/user-attachments/assets/6a2337fd-fe8f-4cc3-af88-88a99baf9df6)
 
 Step 2. Remove the foam cushioning from behind the screen and pry the edge of the black plastic with either your finger or the screwdriver to reveal the battery compartment. 
@@ -17,7 +17,7 @@ Step 3. Undo the battery compartment screw and remove the battery cover exposing
 ![photo of battery screw](https://github.com/user-attachments/assets/02bb2cbc-e5a6-4a24-b61a-a27af8d37bcc)
 ![photo of battery](https://github.com/user-attachments/assets/a70181c3-3ed8-446a-9204-2cdd28bb7cef)
 
-Step 4. Remove the battery from its cutout and either using your fingers or the pliers VERY GENTLY pull out the battery pin. Only grip the pin by the two thinnest sides of the white plug and gently wiggle back and forth to ease the plug out. **Do not pull on the wires or squeese the plug too tightly with the pliers**
+Step 4. Remove the battery from its cutout and either using your fingers or the pliers VERY GENTLY pull out the battery pin. Only grip the pin by the two thinnest sides of the white plug and gently wiggle back and forth to ease the plug out. **Do not pull on the wires or squeese the plug too tightly with the pliers** (if you are only resetting the device from the troubleshooting section then skip to step 3 in section 3 after this)
 ![photo of removed battery](https://github.com/user-attachments/assets/53c1f548-bed7-4e05-aae4-6a9d2c2cefa7)
 ![batt removal 1](https://github.com/user-attachments/assets/d1b4dcf8-0acd-4789-b90f-4122e0efab31)
 ![batt removal 2](https://github.com/user-attachments/assets/03517fde-8083-4b6e-8ba5-503c2694f6ce)
@@ -54,3 +54,15 @@ Step 3. Either extract a zip of the current os or copy files from a backup of th
 Its also important to try and ensure the version of the OS you copy over matches the version you previously had installed. If you are upgrading or downgrading the OS version please ensure you follow the last secttions optional step to "reflash", for more information on this please check the guide section on the system flash.
 
 Step 4. Once the files on the sd card match you can eject your card from your computer and reinsert it into the device. Ensure you click it into place so its fully seated within the board.
+
+## Section 3: rebuilding the device
+
+Step 1. Ensuring the sd card is returned very slowly put the two pieces of the body back together. Make sure they sit flush all the way around and none of the previously shown cables are pinched between the two pieces. Your first time this may take a couple of attempts but take your time and be gentle.
+![seam check](https://github.com/user-attachments/assets/b1beb447-8980-4193-af48-096d52ce4d52)
+
+Step 2. Once you have the two pieces back together place pressure where you did before (battery slot) and return the four screws that held the body ensuring not to overtighten.
+
+Step 3. Take the battery and look at the plug at the end of the wire and the receptacle now exposed in the battery bay. Line up the notch with the corresponding slot and give the plug a firm push to re attach the battery (Note at this point the pip-boy will begin to boot)
+![Battery pin](https://github.com/user-attachments/assets/22ed949f-5c1e-4fe8-949f-85ff3a6ad79a)
+![battery pin2](https://github.com/user-attachments/assets/8ddac90c-2b6a-4084-8153-7c487ba2dda7)
+
