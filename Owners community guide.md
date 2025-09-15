@@ -12,7 +12,7 @@ All information and tools here in are open source and community created. Any wor
 
 As you use your Pip_boy whether modded or stock there may be issues that arise. The following steps are designed to solve the most common issues with the device and help keep it running smoothly. If the first step fails try the second and so on.
 
-### Small errors, Lag, Minor errors
+### Troubleshooting
 1. Navigate to the DATA>Maintenance tab of your device and select "reboot"
 2. Hold the power button down (small button below the screen) amd keep it held until the device turns all the way off and reboots.
 3. Remove the foam cuff from behind the screen side of the wrist section and look for a small hole next to the screw for the battery compartment, you may need to also remove the thin black pastic cover to see it, Both the foam cuff and black plastic piece can be returned to their place easily so dont worrry about that. Once you can see the small hole use a flattened paperclip or the blunt end of a sewing needle to instert and press the small button inside the hole, you should feel a distinct click. Once the button has been pressed the Pip-Boy should reboot and you can return the black plastic and Memory foam cuff.
