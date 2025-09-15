@@ -37,7 +37,7 @@ Final step. Gently press in on the edge of the sd card to remove it. You should 
 
 Step 1. Plug the sd card into your computer and make a new folder called "pip-boy backup" in a place of your choice, then highlight all files on the sd card you just plugged in and copy them to the new folder exactly as they are. This is now your backup of the stock sd card OS. If you do not wish to restore your pip-boy to any previously saved version or replace the sd card you can skip to the end of this section and return the sd card to its slot on the main board, otherwise continue to follow this guide.
 
-Step 2. Whether you are replacing the sd card with a larger one or resetting an already used card the first step is to reformat, this will wipe the card of all data so ensure you have backed up the cards contents first. Then load the card into a drive management tool of your choice and format it to the following specifications (note your software may only allow you to select the first option, this isnt ideal but should still work):
+Step 2. Whether you are replacing the sd card with a larger one or resetting an already used card the first step is to reformat, this will wipe the card of all data so ensure you have backed up the cards contents first. Then load the card into a drive management tool of your choice and format it to the following specifications (note your software may only allow you to select the first option, this isnt ideal and you should look for a different format tool):
 
 * Volume name: Pip-Boy
 * format: FAT or FAT32 if the card is bigger than 4gb
