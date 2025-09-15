@@ -36,4 +36,4 @@ As you use your Pip-boy whether modded or stock there may be issues that arise. 
 
 ## Opening Your Pip-Boy
 ### Here is and in depth instructional manual onn the various steps to open your device. For ease all tasks involving these steps will be referenced here including but not limited to removing the battery for troubleshooting or upgrading your sd card
- [Deconstruction and Sd card Replacement](https://github.com/beaverboy-12/The-Wand-Company-Pip-Boy-3000-Mk-V-Guide/blob/main/Deconstruction%20and%20Sd%20card%20Replacement.md)
+ [Deconstruction and Sd card Replacement](https://github.com/beaverboy-12/The-Wand-Company-Pip-Boy-3000-Mk-V-Guide/blob/main/Individual%20Guides/Deconstruction%20and%20Sd%20card%20Replacement.md)
