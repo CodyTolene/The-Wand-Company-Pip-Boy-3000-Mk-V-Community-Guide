@@ -1,10 +1,10 @@
-# how to open your Pip-boy safely and optionally replace your sd card (also manual reset)
+# How to open your Pip-boy safely and optionally replace your sd card (also manual reset)
 
-Below is a guide to opening your device and accessing the sd card safely, if you have already done this please skip to the section on formatting your card and replacing the files. Make sure you feel confident to do this as there are several small wires that can be easily damaged. The Pip-boy will take and micro sd card thats correctly formatted but for stability its recommended to keep it below 32gb.
+Below is a guide to opening your device and accessing the sd card safely, if you have already done this please skip to the section on formatting your card and replacing the files. Make sure you feel confident to do this as there are several small wires that can be easily damaged. The Pip-boy will take any micro sd card thats correctly formatted but for stability its recommended to keep it below 32gb.
 
 ## Section 1: Preperation and opening the device
 
-Step 1. Ensure you're ready to do this, you will need: a clear and well lit workspace, a small philips head screwdriver, a pair of needle nose pliers (optional).
+Step 1. Ensure you're ready to do this, you will need: a clear and well lit workspace, a small phillips head screwdriver, a pair of needle nose pliers (optional).
 ![Photo of tools needed](https://github.com/user-attachments/assets/6a2337fd-fe8f-4cc3-af88-88a99baf9df6)
 
 Step 2. Remove the foam cushioning from behind the screen and pry the edge of the black plastic with either your finger or the screwdriver to reveal the battery compartment. 
@@ -22,7 +22,7 @@ Step 4. Remove the battery from its cutout and either using your fingers or the 
 ![batt removal 1](https://github.com/user-attachments/assets/d1b4dcf8-0acd-4789-b90f-4122e0efab31)
 ![batt removal 2](https://github.com/user-attachments/assets/03517fde-8083-4b6e-8ba5-503c2694f6ce)
 
-Step 5. Once you have succesfully removed the battery you can set about opening the device. apply gentle pressure with one hand to the area marked in green while using the opposing hand to remove the four red highlighted screws. These are the four screws that hold the two parts of the main body together, the oressure ensure they drop pull apart suddenly and damage the wires.
+Step 5. Once you have succesfully removed the battery you can set about opening the device. apply gentle pressure with one hand to the area marked in green while using the opposing hand to remove the four red highlighted screws. These are the four screws that hold the two parts of the main body together, the pressure ensures they dont pull apart suddenly and damage the wires.
 ![screw removal](https://github.com/user-attachments/assets/7a5d896b-ff3f-420d-8390-56a411ebf281)
 
 Step 6. **Carefully** Lift the wrist section of the Pip-Boy slightly upwards and let it rest on the remaining cuff behind it as shown in the below pictures. Be extra careful of the wires highlighted and take note of the highlighted sd card slot.
@@ -51,7 +51,7 @@ Once you have selected the above options and formatted the card you can move on 
 Step 3. Either extract a zip of the current os or copy files from a backup of the current os to your newly formatted card, it should match the image below unless the pip-boy was previously modded and you are aiming to retain the modifications, returning the sd card to its stock state will effectively count as a reset and wipe all non factory additions.
 <img width="1554" height="928" alt="Screenshot - Finder15September2025@2x" src="https://github.com/user-attachments/assets/d473034e-1c0f-4a00-bc72-a87476be399b" />
 
-Its also important to try and ensure the version of the OS you copy over matches the version you previously had installed. If you are upgrading or downgrading the OS version please ensure you follow the last secttions optional step to "reflash", for more information on this please check the guide section on the system flash.
+Its also important to try and ensure the version of the OS you copy over matches the version you previously had installed. If you are upgrading or downgrading the OS version please ensure you follow the last sections optional step to "reflash", for more information on this please check the main guide section on the system flash. This should only be done as a last resort.
 
 Step 4. Once the files on the sd card match you can eject your card from your computer and reinsert it into the device. Ensure you click it into place so its fully seated within the board.
 
@@ -66,3 +66,13 @@ Step 3. Take the battery and look at the plug at the end of the wire and the rec
 ![Battery pin](https://github.com/user-attachments/assets/22ed949f-5c1e-4fe8-949f-85ff3a6ad79a)
 ![battery pin2](https://github.com/user-attachments/assets/8ddac90c-2b6a-4084-8153-7c487ba2dda7)
 
+Step 4. Return the battery to its slot ensuring the wires and it are oriented as they were before with the wires running down the side, use this picture as reference.
+![photo of battery](https://github.com/user-attachments/assets/a70181c3-3ed8-446a-9204-2cdd28bb7cef)
+
+Final step. Return the battery cover and tighten its screw checking that you do not have to press hard to do so as this may mean the battery wires are being trapped. Then simply replace the black plastic and cushion as shown below.
+![IMG_8445](https://github.com/user-attachments/assets/56b55f45-d781-4b20-a718-111ae5d7f318)
+![IMG_8446](https://github.com/user-attachments/assets/17903976-2262-401a-be1b-49fe848a72ad)
+
+(Optional step) If you have changed the OS version you may get an error message on boot. To fix this hold the power button until the pip boy turns off and then hold the radio dial up until it clicks followed by the power button and hold both ubtil the device boots. Again changing the version this way should be done only as a last resort.
+
+### You should now have succesfully opened and closed your device having optionally upgraded or reset an sd card. Please ensure to keep your stock sd card safe to troubleshoot and issues in future if you have upgraded.
