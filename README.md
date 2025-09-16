@@ -8,7 +8,7 @@
 
 ### - **[Deconstruction and Sd card Replacement](https://github.com/beaverboy-12/The-Wand-Company-Pip-Boy-3000-Mk-V-Guide/blob/main/Individual%20Guides/Deconstruction%20and%20Sd%20card%20Replacement.md)**
 
-### - **[File Types and Formatting](https://github.com/beaverboy-12/The-Wand-Company-Pip-Boy-3000-Mk-V-Community-Guide/blob/main/Individual%20Guides/File%20Types%20and%20Formatting.md)**
+### - **[File Formatting and Upload](https://github.com/beaverboy-12/The-Wand-Company-Pip-Boy-3000-Mk-V-Community-Guide/blob/main/Individual%20Guides/File%20Formatting%20and%20Upload.md)**
 
 ### - **[Pip-Boy Interactive website](https://pip-boy.com/)** **Must be opened with chrome to work with usb serial**
 
