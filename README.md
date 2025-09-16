@@ -1,4 +1,4 @@
-<img width="800" height="534" alt="Vault tec png" src="https://github.com/user-attachments/assets/6cca8ff6-899d-40eb-9279-27a7a17289ec" />
+<img width="400" height="275" alt="Vault tec png" src="https://github.com/user-attachments/assets/6cca8ff6-899d-40eb-9279-27a7a17289ec" />
 
 
 # Table of Contents
