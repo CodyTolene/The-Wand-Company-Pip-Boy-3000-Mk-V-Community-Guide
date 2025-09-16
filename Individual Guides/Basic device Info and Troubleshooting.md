@@ -23,8 +23,10 @@ Within the sd card is a series of folders and loose files that make up the opera
 ## Cleaning and care
 The pip-boy may need occasional dusting and this can be achieved by wiping it with a soft damp (but not wet) cloth. You can also use a microfibre cloth and a small alcohol wipe to remove finger smudges from the glass screen. Be wary of using any products especially alcohol based ones on the exterior shell as they will remove the black weathering paint and on the plastic sections potentially the silver paint as well, please see painting and weathering section for more.
 
-## Universal Troubleshoot (try this first)
+## Connecting to the Computer to Update and Load Apps
+Your device has a usb-c female port at the end of its interface cable, this is the same port you use to charge your device. By connecting the usb to the computer instead of a wall outlet you can make changes to the device while simultaneously charging. In order to load files you will need a browser that is compatible with web serial, i use chrome but others can work too. All sites that allow you to connect the pip-boy will have a connect button that asks you to select a device (should be obvious which to select). In order to update to the latest firmware you can use the official wand company update link [Here](https://www.thewandcompany.com/pip-boy/upgrade/). Theres also an official erase tool listen in the troubleshooting section. To add, delete or replace files within your device or to download and install apps you can use the Community Pip-boy website created by Cody Tolene [here](https://pip-boy.com/)
 
+## Universal Troubleshoot (try this first)
 As you use your Pip-boy whether modded or stock there may be issues that arise. The following steps are designed to solve the most common issues with the device and help keep it running smoothly. If the first step fails try the second and so on.
 
 ### Troubleshooting
