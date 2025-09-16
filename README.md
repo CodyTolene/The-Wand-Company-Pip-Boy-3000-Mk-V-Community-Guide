@@ -1,3 +1,6 @@
+<img width="800" height="534" alt="Vault tec png" src="https://github.com/user-attachments/assets/6cca8ff6-899d-40eb-9279-27a7a17289ec" />
+
+
 # Table of Contents
 
 ### - **[Basic Device Info and Troubleshooting](https://github.com/beaverboy-12/The-Wand-Company-Pip-Boy-3000-Mk-V-Community-Guide/blob/main/Individual%20Guides/Basic%20device%20Info%20and%20Troubleshooting)**
