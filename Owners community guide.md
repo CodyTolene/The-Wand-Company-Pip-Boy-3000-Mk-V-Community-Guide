@@ -34,6 +34,3 @@ As you use your Pip-boy whether modded or stock there may be issues that arise. 
 4. Lastly if the above steps dont work you can try to remove and replace the battery Pin (***ONLY DO THIS IF YOU FEEL CONFIDENT, OTHERWISE SKIP TO NEXT STEP***), if you still wish to attempt this step then follow the section below on opening your device.
 5. Follow the following link to erase your Pip-Boy to its factory settings. Please note this link WILL completely remove all modded, added or customised features and settings and restore your device to its manufactured state. This method MAY NOT WORK if you do not have the stock sd card installed in your device. Please skip to the section on manually resetting and restoring your device if you have already upgraded the sd card in your device. [LINK](https://thewandcompany.com/pip-boy/upgrade/2erase)
 
-## Opening Your Pip-Boy
-### Here is and in depth instructional manual onn the various steps to open your device. For ease all tasks involving these steps will be referenced here including but not limited to removing the battery for troubleshooting or upgrading your sd card
- [Deconstruction and Sd card Replacement](https://github.com/beaverboy-12/The-Wand-Company-Pip-Boy-3000-Mk-V-Guide/blob/main/Individual%20Guides/Deconstruction%20and%20Sd%20card%20Replacement.md)
