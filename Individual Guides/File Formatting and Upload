@@ -40,7 +40,7 @@ Your wand company Pip-boy uses two primary file types to cover the vast majority
 
 ## File Locations and Uploading
 
-#### Now we have our file its time to decide where to place it, You can either drop it into a pre-existing folder on your device like "misc" in which thr file will show in the STATS section of the DATA tab or you can create a new directory on your device and view the file with the file explorer app. For the sake of this guide ill be adding a short video to the misc section so it shows up in the UI.
+#### Now we have our file its time to decide where to place it, You can either drop it into a pre-existing folder on your device like "misc" in which thr file will show in the STATS section of the DATA tab or you can create a new directory on your device and view the file with the file explorer app. For the sake of this guide ill be adding a short video to the misc section so it shows up in the UI. Note that larger files should be added manually onto the sd card itself to prevent issues.
 
 <img width="1675" height="1020" alt="Screenshot - Google Chrome16September2025@2x" src="https://github.com/user-attachments/assets/94639ba9-026f-40eb-a094-ce2276390985" />
 Navigate to this website and coonnect your device
