@@ -31,4 +31,8 @@ All information and tools here in are open source and community created. Any wor
 
 ### [Cody Tolene](https://www.codytolene.com) - Cody has created a vast array of tools and is responsible for a large portion of our understanding of the device. From creating the pip-boy website and several of its apps to troubleshooting known issues and finding fixes. There would be none of this without him. He is also the founder of our community discord group and has contributed an unbelievable amount of time and personal resources to the various sites.
 
-### [Darrian](https://log.robco-industries.org) - Darrian like cody has been a huge contributor to the community understanding of the pip-boy. His website has many great articles detailing the internal workings of the device as well as other fun fallout themed builds and teardowns. Anything im able to write here about the inner workings of the device or the firmware i learnt from him.
+### [Darrian](https://log.robco-industries.org) - Darrian like cody has been a huge contributor to the community understanding of the pip-boy. His website has many great articles detailing the internal workings of the device as well as other fun fallout themed builds and teardowns. Most of what im able to write here about the inner workings of the device or the firmware i learnt from him.
+
+### [Eckserah](https://linktr.ee/eckserah) - Eckserah has been a strong contributor to both our troubleshooting section as well as solving some of the known issues. Their advice and accompanying photos have been a useful addition to the guide.
+
+### Homicidal mailman - Provided backups for version sof the OS and its update files on Discord
