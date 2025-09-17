@@ -7,7 +7,7 @@ Your wand company Pip-boy uses two primary file types to cover the vast majority
 ## Formats
 
 ### **Video:** AVI file set at 12fps with an aspect ratio of 408x248px
-### **Audio** WAV file in 16bit Mono
+### **Audio:** WAV file in 16bit Mono
 
 ## Community Converter (Windows)
 ### We have a premade .exe tool based on FFMPEG created by @codytolene right [here](https://github.com/CodyTolene/pip-boy-3000-mk-v-media-converter.git) on github. The application can be installed and used by following the instructions on its repository. Alternatively you can follow the guide below to download FFMPEG directly and use it in your shell (terminal)
