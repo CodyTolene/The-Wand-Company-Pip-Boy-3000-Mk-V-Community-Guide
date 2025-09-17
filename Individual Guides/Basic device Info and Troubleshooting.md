@@ -29,7 +29,7 @@ Flashing is the process where you install or update the firmware installed on th
 #### Erase flash version
 Power off your device altogether and then look at the front, the radio tuner knob has a button at the right most and left most position as you turn it. Turn the radio knob to the right until you feel a distinct click and hold it there, then press and hold the power button and keep both held until the device boots. This will erase the flash and copies the FW.js file from the sd card to take its place. If that doesnt work you can follow the next step to reinstall the whole espruino firmware.
 
-#### recover corrupted espruino using dfu
+#### Recover corrupted espruino using DFU
 To reinstall the firmware you first need to download a copy of the current OS zip or open your own backup and grab the "pipboy.bin" file. Once you have that you can either download the firmware upgrade utility [here](https://dfu-util.sourceforge.net/) or use the wand companies own web based tool [here](https://www.thewandcompany.com/pip-boy/dfu/). Once you have decided which to use you need to put your device in dfu mode, to do this you need to hold the power and torch buttons and then use a rolled out paperclip to press the hidden reset button underneath the foam cushioning next to the battery door. Once in dfu mode if you opted to install the upgrade utlity you can open a terminal at the folder where your pipboy.bin file is and run this command: "dfu-util -a 0 -s 0x08000000:leave -D pipboy.bin". If you opted to use the web version you need to follow the instructions shown on screen and that should be it, remember you need to be using a browser like chrome that supports web serial.
 
 #### Web serial
