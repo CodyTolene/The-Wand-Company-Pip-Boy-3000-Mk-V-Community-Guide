@@ -1,4 +1,31 @@
 # Custom Maps and Dithering
 
 ## Custom Map app
-the custom map app hosted [here](https://pip-boy.com/) on our tie-in website allows the upload of custom map images to your device to replace the stock map animations with a scrollable map similar to the one in the games.
+the custom map app hosted [here](https://pip-boy.com/) on our tie-in website allows the upload of custom map images to your device to replace the stock map animations with a scrollable map similar to the one in the games, For a tutorial on app installation please go **LINK GOES HERE**. The app was created by the wand company and issued with their official app loading tool, the basis of which cody built our own website around. Below is a tutorial on how to prepare images for the app and a link to some preprepared maps made by EpicestGamer and Azrael. 
+
+#### **All Images Uploaded should be 2048x2048 in Size for Maximum Compatability**
+
+#### [Pre-dithered Images](https://drive.google.com/drive/folders/1o4gs0qW2uCvf9F2PCX_42-lOI3pikDyZ?usp=sharing)
+
+## Dithering
+dithering an image involves adding texture to helps limited colour screens show more depth of shade by strategically placing pixels next to each other at diffent brightnesses to simulate a gradient. This may not be needed entirely but most maps we uploaded required this step to ensure detail like roads and icons remained clear.
+
+### Windows (provided by EpicestGamer)
+To dither on a windows pc download the [Paint.net](https://www.getpaint.net) tool an and its optional (but needed here) [plugin](https://forums.getpaint.net/topic/20096-simulate-color-depth-updated-13-07-11/). Once both are installed open the image you wish to use within and follow these steps:
+<img width="290" height="428" alt="dither tutorial 1" src="https://github.com/user-attachments/assets/0b145a2f-19b6-4a65-bf6d-f6b44a34de68" />
+First ensure your image is sized correctly.<img width="806" height="644" alt="Dither tutorial 2" src="https://github.com/user-attachments/assets/c1f2b715-6af5-449d-bd54-9bec72bc0ee4" />
+Next apply the following effect withtin the menu
+<img width="1152" height="719" alt="Dither tutorial 3" src="https://github.com/user-attachments/assets/5b5c990b-6700-453c-98eb-34704ea4295c" />
+Lastly select your dither pattern and bit size. We reccomend these settings or floydsteinberg but you can play around with it and see what works. 
+
+### Mac (also works on windows as an alternative)
+Download and install the [Krita](https://krita.org/en/) software and get it ready to run. Once youre ready follow these steps:
+<img width="2904" height="1832" alt="Screenshot - Krita18September2025@2x" src="https://github.com/user-attachments/assets/efba3a1c-472c-42a6-8a4b-f450b7cd8047" />
+Open your image in Krita and check again its sized corretly (if not like seen here it may still work, Try at your own discretion)
+<img width="1440" height="900" alt="Screenshot - Krita18September2025 2@2x" src="https://github.com/user-attachments/assets/32fe23c3-5930-434d-a9e9-708a22e926c7" />
+Next open the G-Mic_qt menu in filters
+<img width="1440" height="900" alt="Screenshot - Krita18September2025 3@2x" src="https://github.com/user-attachments/assets/d3a5eaa5-97c8-4cb4-ba93-e85db511db4d" />
+lastly select the Dither srgb option and choose a level. Like with the windows settings you can play around here and see what works best. There are also other dither types here within this menu you can experiment with.
+
+#### Once you have your dithered image you can upload it to the custom map app on the website. 
+
