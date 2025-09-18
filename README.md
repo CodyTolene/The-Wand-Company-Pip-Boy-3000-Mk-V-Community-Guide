@@ -19,7 +19,7 @@ All information and tools here in are open source and community created. Any wor
 
 ### - **[File Formatting and Upload](https://github.com/beaverboy-12/The-Wand-Company-Pip-Boy-3000-Mk-V-Community-Guide/blob/main/Individual%20Guides/File%20Formatting%20and%20Upload.md)**
 
-### - **[Custom Maps and Dithering](https://github.com/beaverboy-12/The-Wand-Company-Pip-Boy-3000-Mk-V-Community-Guide/blob/main/Individual%20Guides/Custom%20Maps%20and%20Dithering.md)
+### - **[Custom Maps and Dithering](https://github.com/beaverboy-12/The-Wand-Company-Pip-Boy-3000-Mk-V-Community-Guide/blob/main/Individual%20Guides/Custom%20Maps%20and%20Dithering.md)**
 
 ## External Links
 ### - **[Pip-Boy Interactive website](https://pip-boy.com/)** **Must be opened with chrome to work with usb serial**
