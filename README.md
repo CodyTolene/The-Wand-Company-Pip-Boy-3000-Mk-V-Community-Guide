@@ -1,4 +1,4 @@
-![Box_Exterior_Top](https://github.com/user-attachments/assets/39011ee2-3440-4d74-8b44-dee9ac183429)
+![Box_Exterior_Top - 01](https://github.com/user-attachments/assets/4fbe6c6b-ed7b-435d-ba5f-7f7a882c457d)
 
 # Community Pip-boy Guides and tools
 
