@@ -28,11 +28,14 @@ All information and tools here in are open source and community created. Any wor
 
 ### - **[Rob-Co website](https://log.robco-industries.org)**
 
-### - **[Athenes pip-boy project](https://athene.gay/projects/pipboy.html)
+### - **[Athenes pip-boy project](https://athene.gay/projects/pipboy.html)**
 
 ### - **[Backup of All Currently Known OS Versions](https://drive.google.com/drive/folders/1zgNKIpcHAw1kOLcdaYQV6leDRjtZrgZ8)**
 
 ## Credits
+
+### [The Wand Compancy](https://www.thewandcompany.com) - While not directly contributing to the community effort we still need to take a moment to appreciate the main team behind this device. Not only have they given us an incredible and well thought out piece of kit to mod they also continue to support with firmware updates and advice for all who contact them with issues. They created the app loading platform we currently use as the foundation for our own site as well as at least three of the apps listed there. A couple of our modders have even had the chance to speak to members of the wand company team and by all accounts theyre kind and generous and passionate about this wonderful device. One such member chris has created a fundraiser for Type 1 Diabetes so if you wish to contribute to this project or support them a donation to that would be greatly appreciated. The link is [here](https://www.justgiving.com/page/twc-charity-donations) and also tagged above
+
 ### [Azrael](https://www.reddit.com/user/beaverboy2000/) - Creator of this repository and learning as i go.
 
 ### [Cody Tolene](https://www.codytolene.com) - Cody has created a vast array of tools and is responsible for a large portion of our understanding of the device. From creating the pip-boy website and several of its apps to troubleshooting known issues and finding fixes. There would be none of this without him. He is also the founder of our community discord group and has contributed an unbelievable amount of time and personal resources to the various sites.
