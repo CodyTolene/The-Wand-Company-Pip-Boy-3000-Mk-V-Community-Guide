@@ -32,9 +32,11 @@ All information and tools here in are open source and community created. Any wor
 
 ### - **[Backup of All Currently Known OS Versions](https://drive.google.com/drive/folders/1zgNKIpcHAw1kOLcdaYQV6leDRjtZrgZ8)**
 
+### - **[Diabetes research fundraiser](https://www.justgiving.com/page/twc-charity-donations)
+
 ## Credits
 
-### [The Wand Compancy](https://www.thewandcompany.com) - While not directly contributing to the community effort we still need to take a moment to appreciate the main team behind this device. Not only have they given us an incredible and well thought out piece of kit to mod they also continue to support with firmware updates and advice for all who contact them with issues. They created the app loading platform we currently use as the foundation for our own site as well as at least three of the apps listed there. A couple of our modders have even had the chance to speak to members of the wand company team and by all accounts theyre kind and generous and passionate about this wonderful device. One such member chris has created a fundraiser for Type 1 Diabetes so if you wish to contribute to this project or support them a donation to that would be greatly appreciated. The link is [here](https://www.justgiving.com/page/twc-charity-donations) and also tagged above
+### [The Wand Company](https://www.thewandcompany.com) - While not directly contributing to the community effort we still need to take a moment to appreciate the main team behind this device. Not only have they given us an incredible and well thought out piece of kit to mod they also continue to support with firmware updates and advice for all who contact them with issues. They created the app loading platform we currently use as the foundation for our own site as well as at least three of the apps listed there. A couple of our modders have even had the chance to speak to members of the wand company team and by all accounts theyre kind and generous and passionate about this wonderful device. One such member chris has created a fundraiser for Type 1 Diabetes so if you wish to contribute to this project or support them a donation to that would be greatly appreciated. The link is [here](https://www.justgiving.com/page/twc-charity-donations) and also tagged above
 
 ### [Azrael](https://www.reddit.com/user/beaverboy2000/) - Creator of this repository and learning as i go.
 
