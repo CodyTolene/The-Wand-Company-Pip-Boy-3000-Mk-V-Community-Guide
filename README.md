@@ -32,7 +32,7 @@ All information and tools here in are open source and community created. Any wor
 
 ### - **[Backup of All Currently Known OS Versions](https://drive.google.com/drive/folders/1zgNKIpcHAw1kOLcdaYQV6leDRjtZrgZ8)**
 
-### - **[Diabetes research fundraiser](https://www.justgiving.com/page/twc-charity-donations)
+### - **[Diabetes research fundraiser](https://www.justgiving.com/page/twc-charity-donations)**
 
 ## Credits
 
