@@ -9,6 +9,7 @@ The Pip-boy comes with a layer of black "grime" added around the device to give 
 I asked a member of our community S15Costuming about the process he used to weather his device and he kindly provided us with pictures and a description of his process:
 
 **"First, I cleaned up the stock weathering that The Wand Company used with Rubbing Alcohol, then I used acrylic paints, mainly from Vallejo's Rust, Stain, and Streaking kit to start weathering and staining, trying to focus on spots that would be rusted the most, such as areas where water, dirt, and grime would gather. I also used a mix of watered down acrylic paints to "dirty up" the screen, mainly focusing on the edges of the screen. I used rubbing alcohol and water to thin it out to make it not look like I just threw down blotches of paint. I had to keep cleaning and reapplying paint to get it to a state where I was happy with the weathering."**
+
 ![IMG_2725](https://github.com/user-attachments/assets/da7d00c4-e45b-45a3-a8a0-da0bdf81ee3e)
 ![IMG_2728](https://github.com/user-attachments/assets/0e77a33c-424f-4fbe-b914-af45af7c097c)
 ![IMG_2720](https://github.com/user-attachments/assets/4b0083d5-885a-4fe3-bdc6-8b5dfcfbd8bc)
