@@ -1,4 +1,4 @@
-<img width="400" height="275" alt="Vault tec png" src="https://github.com/user-attachments/assets/6cca8ff6-899d-40eb-9279-27a7a17289ec" />
+![Box_Exterior_Top](https://github.com/user-attachments/assets/39011ee2-3440-4d74-8b44-dee9ac183429)
 
 # Community Pip-boy Guides and tools
 
@@ -15,7 +15,7 @@ All information and tools here in are open source and community created. Any wor
 ## Guides
 ### - **[Basic Device Info and Troubleshooting](https://github.com/beaverboy-12/The-Wand-Company-Pip-Boy-3000-Mk-V-Community-Guide/blob/main/Individual%20Guides/Basic%20device%20Info%20and%20Troubleshooting.md)**
 
-### - **[Deconstruction and Sd card Replacement](https://github.com/beaverboy-12/The-Wand-Company-Pip-Boy-3000-Mk-V-Guide/blob/main/Individual%20Guides/Deconstruction%20and%20Sd%20card%20Replacement.md)**
+### - **[Deconstruction and Sd Card Replacement](https://github.com/beaverboy-12/The-Wand-Company-Pip-Boy-3000-Mk-V-Guide/blob/main/Individual%20Guides/Deconstruction%20and%20Sd%20card%20Replacement.md)**
 
 ### - **[File Formatting and Upload](https://github.com/beaverboy-12/The-Wand-Company-Pip-Boy-3000-Mk-V-Community-Guide/blob/main/Individual%20Guides/File%20Formatting%20and%20Upload.md)**
 
@@ -26,17 +26,15 @@ All information and tools here in are open source and community created. Any wor
 
 ### - **[Community Discord](https://discord.gg/Q3fC3Hxz)**
 
-### - **[Rob-Co website](https://log.robco-industries.org)**
+### - **[Rob-Co Website](https://log.robco-industries.org)**
 
-### - **[Athenes pip-boy project](https://athene.gay/projects/pipboy.html)**
+### - **[Athenes Pip-boy Project](https://athene.gay/projects/pipboy.html)**
 
 ### - **[Backup of All Currently Known OS Versions](https://drive.google.com/drive/folders/1zgNKIpcHAw1kOLcdaYQV6leDRjtZrgZ8)**
 
-### - **[Diabetes research fundraiser](https://www.justgiving.com/page/twc-charity-donations)**
+### - **[Diabetes Research Fundraiser](https://www.justgiving.com/page/twc-charity-donations)**
 
 ## Credits
-
-### [The Wand Company](https://www.thewandcompany.com) - While not directly contributing to the community effort we still need to take a moment to appreciate the main team behind this device. Not only have they given us an incredible and well thought out piece of kit to mod they also continue to support with firmware updates and advice for all who contact them with issues. They created the app loading platform we currently use as the foundation for our own site as well as at least three of the apps listed there. A couple of our modders have even had the chance to speak to members of the wand company team and by all accounts theyre kind and generous and passionate about this wonderful device. One such member chris has created a fundraiser for Type 1 Diabetes so if you wish to contribute to this project or support them a donation to that would be greatly appreciated. The link is [here](https://www.justgiving.com/page/twc-charity-donations) and also tagged above
 
 ### [Azrael](https://www.reddit.com/user/beaverboy2000/) - Creator of this repository and learning as i go.
 
@@ -50,4 +48,8 @@ All information and tools here in are open source and community created. Any wor
 
 ### [Epicestgamer](https://epicest.gay/) - Epicest gamer has kindly provided a tutorial for image dithering as well as most of our pre-dithered map images ready for uplaod. They have also provided high quality scans of the Pip-boys packaging.
 
+### [S15Costuming](https://linktr.ee/S15Costuming) - S15Costuming has written a section for us on painting and weathering our devices, their own success is profound and during a livestream then showed the whole process and recorded many great pictures for us to uses as reference. If you're planning to paint or alter the weathering on your pip-boy i highly reccomend you check the section on weathering and paint linked above.
+
 ### Homicidal mailman - Provided backups for version sof the OS and its update files on Discord
+
+### [The Wand Company](https://www.thewandcompany.com) - While not directly contributing to the community effort we still need to take a moment to appreciate the main team behind this device. Not only have they given us an incredible and well thought out piece of kit to mod they also continue to support with firmware updates and advice for all who contact them with issues. They created the app loading platform we currently use as the foundation for our own site as well as at least three of the apps listed there. A couple of our modders have even had the chance to speak to members of the wand company team and by all accounts theyre kind and generous and passionate about this wonderful device. One such member chris has created a fundraiser for Type 1 Diabetes so if you wish to contribute to this project or support them a donation to that would be greatly appreciated. The link is [here](https://www.justgiving.com/page/twc-charity-donations) and also tagged above
