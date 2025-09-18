@@ -12,7 +12,7 @@ dithering an image involves adding texture to helps limited colour screens show 
 
 ### Windows (provided by EpicestGamer)
 To dither on a windows pc download the [Paint.net](https://www.getpaint.net) tool an and its optional (but needed here) [plugin](https://forums.getpaint.net/topic/20096-simulate-color-depth-updated-13-07-11/). Once both are installed open the image you wish to use within and follow these steps:
-<img width="290" height="428" alt="dither tutorial 1" src="https://github.com/user-attachments/assets/0b145a2f-19b6-4a65-bf6d-f6b44a34de68" />
+![Screenshot - Krita18September2025@2x](https://github.com/user-attachments/assets/94947271-1a79-4155-bd90-ef5c21060d49)
 First ensure your image is sized correctly.<img width="806" height="644" alt="Dither tutorial 2" src="https://github.com/user-attachments/assets/c1f2b715-6af5-449d-bd54-9bec72bc0ee4" />
 Next apply the following effect withtin the menu
 <img width="1152" height="719" alt="Dither tutorial 3" src="https://github.com/user-attachments/assets/5b5c990b-6700-453c-98eb-34704ea4295c" />
