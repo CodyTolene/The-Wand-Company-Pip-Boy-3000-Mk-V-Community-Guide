@@ -20,7 +20,7 @@ Lastly select your dither pattern and bit size. We reccomend these settings or f
 
 ### Mac (also works on windows as an alternative)
 Download and install the [Krita](https://krita.org/en/) software and get it ready to run. Once youre ready follow these steps:
-<img width="2904" height="1832" alt="Screenshot - Krita18September2025@2x" src="https://github.com/user-attachments/assets/efba3a1c-472c-42a6-8a4b-f450b7cd8047" />
+<img width="2904" height="1832" alt="Screenshot - Krita18September2025@2x" src="https://github.com/user-attachments/assets/dbf4466c-d317-4a54-b78e-7c02b29fa1ac" />
 Open your image in Krita and check again its sized corretly (if not like seen here it may still work, Try at your own discretion)
 <img width="1440" height="900" alt="Screenshot - Krita18September2025 2@2x" src="https://github.com/user-attachments/assets/32fe23c3-5930-434d-a9e9-708a22e926c7" />
 Next open the G-Mic_qt menu in filters
