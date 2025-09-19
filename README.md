@@ -23,6 +23,9 @@ All information and tools here in are open source and community created. Any wor
 
 ### - **[Custom Maps and Dithering](https://github.com/beaverboy-12/The-Wand-Company-Pip-Boy-3000-Mk-V-Community-Guide/blob/main/Individual%20Guides/Custom%20Maps%20and%20Dithering.md)**
 
+## Known Issues
+### - **[List of Common Faults](https://github.com/beaverboy-12/The-Wand-Company-Pip-Boy-3000-Mk-V-Community-Guide/blob/main/Known%20Issues/List%20of%20common%20Faults.md)**
+
 ## External Links
 ### - **[Pip-Boy Interactive website](https://pip-boy.com/)** **Must be opened with chrome to work with usb serial**
 
