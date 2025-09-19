@@ -3,8 +3,12 @@ One of the many ways you can customise your device is to remove the weathering a
 
 ## Removing the stock weathering
 The Pip-boy comes with a layer of black "grime" added around the device to give an illusion of the device having been through a wasteland. This applied effect we think is watered down acyrlic paint, it can be removed very easily. To remove it simply use a clean lint-free cloth and some rubbing alcohol, you could also in theory even use vodka or gin. **Whatever you do do not use acetone or paint thinners as they may strip the silver paint from the abs plastic body.** Heres an example of a Pip-boy thats had its weathering removed:
+![image](https://github.com/user-attachments/assets/230dc704-2f4b-489c-afa5-56f34bf90f0f)
+![image](https://github.com/user-attachments/assets/3e8c08e6-dd24-4be6-98ce-093d15e0a4cd)
 
-**Insert image here**
+
+
+
 ## Adding custom weathering
 I asked a member of our community S15Costuming about the process he used to weather his device and he kindly provided us with pictures and a description of his process:
 
