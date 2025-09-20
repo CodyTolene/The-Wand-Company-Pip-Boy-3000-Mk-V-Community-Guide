@@ -25,6 +25,10 @@ Failure to connect can be caused by a myriad of things. Before we assume theres 
 * Try a differenct cable to rule out problems with that specific one (even if the cable allows the device to charge it may still be damaged to prevent data transfer)
 If after checking these things you still have no luck the next step will be to reach out to the community discord for further troubleshooting. You can find the link on the index page of this repository.
 
+## Broken Screens
+There is a know issue where trying to remove the motherboard of your device causes a particular component to crack the lcd screen. To avoid this you should be extra careful always when trying to remove any components beyony the sd card. 
+In the instance that you break your screen this way or any other way you should contact the wand company for repair or replacement [here](https://www.thewandcompany.com/contact-us/)
+![rn_image_picker_lib_temp_afa592e2-eb71-4666-8323-f91775156b89](https://github.com/user-attachments/assets/995c1ad5-2979-4b14-9fcb-05b9eea8948a)![WhatsApp_Image_2025-08-28_at_22 41 25_d80598ed](https://github.com/user-attachments/assets/8149a08e-c2bd-4263-94dc-7c589c04edb4)
 
 ## Screen Blank/ No picture (sound still functioning, rad meter light on)
 Sometimes the screen can fail to light if the pip-boy hasnt been rebooted in a while or if theres a small bug etc. Most of the time it can be fixed following the steps provided in the [troubleshooting](https://github.com/beaverboy-12/The-Wand-Company-Pip-Boy-3000-Mk-V-Community-Guide/blob/main/Individual%20Guides/Basic%20device%20Info%20and%20Troubleshooting.md) section. 
