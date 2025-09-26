@@ -59,5 +59,5 @@ dither types here within this menu you can experiment with.
 
 <!-- External Links -->
 
-[pip-boy-website]:(https://pip-boy.com/)
-[pre-dithered-images]:(https://drive.google.com/drive/folders/1o4gs0qW2uCvf9F2PCX_42-lOI3pikDyZ?usp=sharing)
+[pip-boy-website]:https://pip-boy.com/
+[pre-dithered-images]:https://drive.google.com/drive/folders/1o4gs0qW2uCvf9F2PCX_42-lOI3pikDyZ?usp=sharing
