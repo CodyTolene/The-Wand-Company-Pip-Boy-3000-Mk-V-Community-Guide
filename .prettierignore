@@ -1,0 +1,10 @@
+# Prettier ignore file, see: https://prettier.io/docs/ignore
+
+# Ignore everything
+**
+
+# Allow traversing into folders
+!*/
+
+# Re-include markdown files anywhere
+!**/*.md
