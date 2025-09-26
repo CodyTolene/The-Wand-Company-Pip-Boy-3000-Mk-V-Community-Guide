@@ -24,7 +24,7 @@ remained clear.
 
 ### Windows (provided by EpicestGamer)
 
-To dither on a windows pc download the [Paint.net](https://www.getpaint.net)
+To dither on a windows pc download the [Paint.net][paint-net]
 tool an and its optional (but needed here)
 [plugin](https://forums.getpaint.net/topic/20096-simulate-color-depth-updated-13-07-11/).
 Once both are installed open the image you wish to use within and follow these
@@ -61,3 +61,4 @@ dither types here within this menu you can experiment with.
 
 [pip-boy-website]:https://pip-boy.com/
 [pre-dithered-images]:https://drive.google.com/drive/folders/1o4gs0qW2uCvf9F2PCX_42-lOI3pikDyZ?usp=sharing
+[paint-net]:https://www.getpaint.net
