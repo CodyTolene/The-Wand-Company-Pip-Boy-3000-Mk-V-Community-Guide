@@ -26,7 +26,7 @@ remained clear.
 
 To dither on a windows pc download the [Paint.net][paint-net]
 tool an and its optional (but needed here)
-[plugin](https://forums.getpaint.net/topic/20096-simulate-color-depth-updated-13-07-11/).
+[plugin][paint-dither-plugin]
 Once both are installed open the image you wish to use within and follow these
 steps:
 
@@ -40,7 +40,7 @@ floydsteinberg but you can play around with it and see what works.
 
 ### Mac (also works on windows as an alternative)
 
-Download and install the [Krita](https://krita.org/en/) software and get it
+Download and install the [Krita][krita-link] software and get it
 ready to run. Once youre ready follow these steps:
 
 Open your image in Krita and check again its sized corretly (if not like seen
@@ -62,3 +62,8 @@ dither types here within this menu you can experiment with.
 [pip-boy-website]:https://pip-boy.com/
 [pre-dithered-images]:https://drive.google.com/drive/folders/1o4gs0qW2uCvf9F2PCX_42-lOI3pikDyZ?usp=sharing
 [paint-net]:https://www.getpaint.net
+[paint-dither-plugin]:https://forums.getpaint.net/topic/20096-simulate-color-depth-updated-13-07-11/
+[krita-link]:https://krita.org/en/
+
+npx prettier --write
+
