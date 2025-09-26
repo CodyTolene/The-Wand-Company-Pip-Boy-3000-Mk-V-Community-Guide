@@ -2,7 +2,7 @@
 
 ## Custom Map app
 
-The custom map app hosted [here](https://pip-boy.com/) on our tie-in website
+The custom map app hosted [here][pip-boy-website] on our tie-in website
 allows the upload of custom map images to your device to replace the stock map
 animations with a scrollable map similar to the one in the games, For a tutorial
 on app installation please go **LINK GOES HERE**. The app was created by the
@@ -12,7 +12,7 @@ for the app and a link to some preprepared maps made by EpicestGamer and Azrael.
 
 #### **All Images Uploaded should be 2048x2048 in Size for Maximum Compatability**
 
-#### [Pre-dithered Images](https://drive.google.com/drive/folders/1o4gs0qW2uCvf9F2PCX_42-lOI3pikDyZ?usp=sharing)
+#### [Pre-dithered Images][pre-dithered-images]
 
 ## Dithering
 
@@ -54,3 +54,10 @@ dither types here within this menu you can experiment with.
 <img width="1440" height="900" alt="Screenshot - Krita18September2025 3@2x" src="https://github.com/user-attachments/assets/d3a5eaa5-97c8-4cb4-ba93-e85db511db4d" />
 
 #### Once you have your dithered image you can upload it to the custom map app on the website.
+
+<!-- Internal Links -->
+
+<!-- External Links -->
+
+[pip-boy-website](https://pip-boy.com/)
+[pre-dithered-images](https://drive.google.com/drive/folders/1o4gs0qW2uCvf9F2PCX_42-lOI3pikDyZ?usp=sharing)
