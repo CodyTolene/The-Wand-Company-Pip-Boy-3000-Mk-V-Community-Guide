@@ -65,5 +65,6 @@ dither types here within this menu you can experiment with.
 [paint-dither-plugin]:https://forums.getpaint.net/topic/20096-simulate-color-depth-updated-13-07-11/
 [krita-link]:https://krita.org/en/
 
-$ npx prettier --write
-
+```
+npx prettier --write
+```
