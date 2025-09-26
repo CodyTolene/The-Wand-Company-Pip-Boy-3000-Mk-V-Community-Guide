@@ -1,0 +1,12 @@
+{
+  "$schema": "https://json.schemastore.org/prettierrc",
+  "printWidth": 80,
+  "overrides": [
+    {
+      "files": ["*.md", "*.mdx"],
+      "options": {
+        "proseWrap": "always"
+      }
+    }
+  ]
+}

@@ -2,24 +2,37 @@
 
 ## Introduction
 
-Your wand company Pip-boy uses two primary file types to cover the vast majority of media. Video files are AVI while audio typically uses WAV. By creating files in these two specific formats we can add or replace files within the pip-boy, for example we can replace the audio files in the radio folder with our own custom files, allowing us to add our own music without using the custom radio app. We can also add custom AVI files to play in certain tabs including the maps section. In this guide will be a breakdown of each of these two file types and tools you can use to both convert and upload the files to your device.
+Your wand company Pip-boy uses two primary file types to cover the vast majority
+of media. Video files are AVI while audio typically uses WAV. By creating files
+in these two specific formats we can add or replace files within the pip-boy,
+for example we can replace the audio files in the radio folder with our own
+custom files, allowing us to add our own music without using the custom radio
+app. We can also add custom AVI files to play in certain tabs including the maps
+section. In this guide will be a breakdown of each of these two file types and
+tools you can use to both convert and upload the files to your device.
 
 ## Formats
 
 ### **Video:** AVI file set at 12fps with an aspect ratio of 408x248px
+
 ### **Audio:** WAV file in 16bit Mono
 
 ## Community Converter (Windows)
+
 ### We have a premade .exe tool based on FFMPEG created by @codytolene right [here](https://github.com/CodyTolene/pip-boy-3000-mk-v-media-converter.git) on github. The application can be installed and used by following the instructions on its repository. Alternatively you can follow the guide below to download FFMPEG directly and use it in your shell (terminal)
 
 ## FFMPEG (All Platforms)
 
 ### [Install Guide Windows](https://phoenixnap.com/kb/ffmpeg-windows)
+
 ### [Install Guide Mac](https://phoenixnap.com/kb/ffmpeg-windows)
+
 ### [Install Guide Ubuntu](https://phoenixnap.com/kb/install-ffmpeg-ubuntu)
 
 ### FFMPEG Commands for pip-boy video and audio:
-#### Audio = "ffmpeg -i X -ac 1 -ar 16000  X"
+
+#### Audio = "ffmpeg -i X -ac 1 -ar 16000 X"
+
 #### Video = "fmpeg -i X -vf "scale=400:-1,format=rgb555le" -r 12 -c:v msrle -pix_fmt pal8 -c:a pcm_s16le -ac 1 -ar 11025 X"
 
 #### Once You have FFMPEG installed follow the next steps to convert a file
@@ -33,7 +46,9 @@ Step 2. Drag the file from your folder and drop it in to your terminal to get th
 <img width="1427" height="596" alt="Screenshot - Terminal16September2025 3@2x" src="https://github.com/user-attachments/assets/c5819930-2939-407f-a37b-c1dba50d4c46" />
 Step 3. Copy the file path from the terminal and replace the two highlighted X's with it. The first should be copied to where the first x is exactly **However** the second should be adjusted so instead of ".mp4" or ".m4a" it says ".avi". It should look something like this: "ffmpeg -i /Users/theghoul/downloads/my_funny_video.mp4 -vf "scale=400:-1,format=rgb555le" -r 12 -c:v msrle -pix_fmt pal8 -c:a pcm_s16le -ac 1 -ar 11025 /Users/theghoul/downloads/my_funny_video.avi"
 
-Final step: Copy the prewritten command to your terminal and run it, once converted the new file will be placed next to the original and be ready for upload in the next section.
+Final step: Copy the prewritten command to your terminal and run it, once
+converted the new file will be placed next to the original and be ready for
+upload in the next section.
 
 ## File Locations and Uploading
 
@@ -49,9 +64,8 @@ Once connected scroll down to where it says "load files" and select the file or 
 You can now select which sub directory you wish to add the files to or you can create a new folder
 
 <img width="1675" height="1020" alt="Screenshot - Google Chrome16September2025@2x copy" src="https://github.com/user-attachments/assets/ea0b7d95-b53e-4718-902b-835b6f9b28b3" />
-Once you click "start upload"the site will add the file to the directory (this may take a while for larger files) and then you will be done and can view your files in the device. 
+Once you click "start upload"the site will add the file to the directory (this may take a while for larger files) and then you will be done and can view your files in the device.
 
 ## Deleting files
 
 #### To delete files you can use the file browser on the same window and click the trash icon next to any file you no longer want. I would strongly advise against deleting files youre unsure of as you can cause issues. For details on removing audio files to replace them within the radio please see the Custom radio portion of the guide.
-
