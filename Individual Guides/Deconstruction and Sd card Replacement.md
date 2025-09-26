@@ -136,3 +136,9 @@ both ubtil the device boots. Again changing the version this way should be done
 only as a last resort.
 
 ### You should now have succesfully opened and closed your device having optionally upgraded or reset an sd card. Please ensure to keep your stock sd card safe to troubleshoot and issues in future if you have upgraded.
+
+
+<!-- Internal links -- >
+
+<!-- External links -- >
+

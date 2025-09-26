@@ -19,15 +19,15 @@ tools you can use to both convert and upload the files to your device.
 
 ## Community Converter (Windows)
 
-### We have a premade .exe tool based on FFMPEG created by @codytolene right [here](https://github.com/CodyTolene/pip-boy-3000-mk-v-media-converter.git) on github. The application can be installed and used by following the instructions on its repository. Alternatively you can follow the guide below to download FFMPEG directly and use it in your shell (terminal)
+### We have a premade .exe tool based on FFMPEG created by @codytolene right [here][pipboy-media-converter-git] on github. The application can be installed and used by following the instructions on its repository. Alternatively you can follow the guide below to download FFMPEG directly and use it in your shell (terminal)
 
 ## FFMPEG (All Platforms)
 
-### [Install Guide Windows](https://phoenixnap.com/kb/ffmpeg-windows)
+### [Install Guide Windows][install-guide-windows]
 
-### [Install Guide Mac](https://phoenixnap.com/kb/ffmpeg-windows)
+### [Install Guide Mac][install-guide-mac]
 
-### [Install Guide Ubuntu](https://phoenixnap.com/kb/install-ffmpeg-ubuntu)
+### [Install Guide Ubuntu][install-guide-ubuntu]
 
 ### FFMPEG Commands for pip-boy video and audio:
 
@@ -69,3 +69,13 @@ Once you click "start upload"the site will add the file to the directory (this m
 ## Deleting files
 
 #### To delete files you can use the file browser on the same window and click the trash icon next to any file you no longer want. I would strongly advise against deleting files youre unsure of as you can cause issues. For details on removing audio files to replace them within the radio please see the Custom radio portion of the guide.
+
+
+<!-- Internal Links -->
+
+<!-- External Links -->
+
+[pipboy-media-converter-git]:https://github.com/CodyTolene/pip-boy-3000-mk-v-media-converter.git
+[install-guide-windows]:https://phoenixnap.com/kb/ffmpeg-windows
+[install-guide-mac]:https://phoenixnap.com/kb/ffmpeg-windows
+[install-guide-ubuntu]:https://phoenixnap.com/kb/install-ffmpeg-ubuntu

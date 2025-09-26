@@ -35,7 +35,7 @@ water to thin it out to make it not look like I just threw down blotches of
 paint. I had to keep cleaning and reapplying paint to get it to a state where I
 was happy with the weathering."**
 
-**[heres](https://youtu.be/1WsNSpTVzg0) a link to their livestream of the
+**[heres][S15costuming-livestream-recording]a link to their livestream of the
 process**
 
 ![IMG_2725](https://github.com/user-attachments/assets/da7d00c4-e45b-45a3-a8a0-da0bdf81ee3e)
@@ -63,3 +63,8 @@ from the dials and buttons and once the paint has been on for about 10-20
 seconds use some tissue or a paper towel to wipe some of it off. You can also
 just brush the paint and water mix into the nooks and crannies around the body
 and leave it overnight to dry.
+
+<!-- Internal Links -->
+
+<!-- External Links -->
+[S15costuming-livestream-recording]:https://youtu.be/1WsNSpTVzg0
