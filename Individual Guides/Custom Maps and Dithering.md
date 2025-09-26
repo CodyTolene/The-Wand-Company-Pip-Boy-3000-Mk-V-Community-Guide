@@ -2,8 +2,8 @@
 
 ## Custom Map app
 
-The custom map app hosted [here][pip-boy-website] on our tie-in website
-allows the upload of custom map images to your device to replace the stock map
+The custom map app hosted [here][pip-boy-website] on our tie-in website allows
+the upload of custom map images to your device to replace the stock map
 animations with a scrollable map similar to the one in the games, For a tutorial
 on app installation please go **LINK GOES HERE**. The app was created by the
 wand company and issued with their official app loading tool, the basis of which
@@ -24,11 +24,9 @@ remained clear.
 
 ### Windows (provided by EpicestGamer)
 
-To dither on a windows pc download the [Paint.net][paint-net]
-tool an and its optional (but needed here)
-[plugin][paint-dither-plugin]
-Once both are installed open the image you wish to use within and follow these
-steps:
+To dither on a windows pc download the [Paint.net][paint-net] tool an and its
+optional (but needed here) [plugin][paint-dither-plugin] Once both are installed
+open the image you wish to use within and follow these steps:
 
 First ensure your image is correctly sized
 <img width="290" height="428" alt="image" src="https://github.com/user-attachments/assets/b7c32858-341f-4805-80de-3c7094f4fa50" />
@@ -40,8 +38,8 @@ floydsteinberg but you can play around with it and see what works.
 
 ### Mac (also works on windows as an alternative)
 
-Download and install the [Krita][krita-link] software and get it
-ready to run. Once youre ready follow these steps:
+Download and install the [Krita][krita-link] software and get it ready to run.
+Once youre ready follow these steps:
 
 Open your image in Krita and check again its sized corretly (if not like seen
 here it may still work, Try at your own discretion)
@@ -59,9 +57,10 @@ dither types here within this menu you can experiment with.
 
 <!-- External Links -->
 
-[pip-boy-website]:https://pip-boy.com/
-[pre-dithered-images]:https://drive.google.com/drive/folders/1o4gs0qW2uCvf9F2PCX_42-lOI3pikDyZ?usp=sharing
-[paint-net]:https://www.getpaint.net
-[paint-dither-plugin]:https://forums.getpaint.net/topic/20096-simulate-color-depth-updated-13-07-11/
-[krita-link]:https://krita.org/en/
-
+[pip-boy-website]: https://pip-boy.com/
+[pre-dithered-images]:
+  https://drive.google.com/drive/folders/1o4gs0qW2uCvf9F2PCX_42-lOI3pikDyZ?usp=sharing
+[paint-net]: https://www.getpaint.net
+[paint-dither-plugin]:
+  https://forums.getpaint.net/topic/20096-simulate-color-depth-updated-13-07-11/
+[krita-link]: https://krita.org/en/
