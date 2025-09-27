@@ -7,7 +7,7 @@ several small wires that can be easily damaged. The Pip-boy will take any micro
 sd card thats correctly formatted but for stability its recommended to keep it
 below 32gb.
 
-## Section 1: Preperation and opening the device
+## Section 1: Preparation and opening the device
 
 Step 1. Ensure you're ready to do this, you will need: a clear and well lit
 workspace, a small phillips head screwdriver, a pair of needle nose pliers
@@ -30,18 +30,18 @@ the battery.
 Step 4. Remove the battery from its cutout and either using your fingers or the
 pliers VERY GENTLY pull out the battery pin. Only grip the pin by the two
 thinnest sides of the white plug and gently wiggle back and forth to ease the
-plug out. **Do not pull on the wires or squeese the plug too tightly with the
+plug out. **Do not pull on the wires or squeeze the plug too tightly with the
 pliers** (if you are only resetting the device from the troubleshooting section
 then skip to step 3 in section 3 after this)
 ![photo of removed battery](https://github.com/user-attachments/assets/53c1f548-bed7-4e05-aae4-6a9d2c2cefa7)
 ![batt removal 1](https://github.com/user-attachments/assets/d1b4dcf8-0acd-4789-b90f-4122e0efab31)
 ![batt removal 2](https://github.com/user-attachments/assets/03517fde-8083-4b6e-8ba5-503c2694f6ce)
 
-Step 5. Once you have succesfully removed the battery you can set about opening
+Step 5. Once you have successfully removed the battery you can set about opening
 the device. apply gentle pressure with one hand to the area marked in green
 while using the opposing hand to remove the four red highlighted screws. These
 are the four screws that hold the two parts of the main body together, the
-pressure ensures they dont pull apart suddenly and damage the wires.
+pressure ensures they don,t pull apart suddenly and damage the wires.
 ![screw removal](https://github.com/user-attachments/assets/7a5d896b-ff3f-420d-8390-56a411ebf281)
 
 Step 6. **Carefully** Lift the wrist section of the Pip-Boy slightly upwards and
@@ -70,7 +70,7 @@ already used card the first step is to reformat, this will wipe the card of all
 data so ensure you have backed up the cards contents first. Then load the card
 into a drive management tool of your choice and format it to the following
 specifications (note your software may only allow you to select the first
-option, this isnt ideal and you should look for a different format tool):
+option, this isn't ideal and you should look for a different format tool):
 
 - Volume name: Pip-Boy
 - format: FAT or FAT32 if the card is bigger than 4gb
@@ -109,7 +109,7 @@ may take a couple of attempts but take your time and be gentle.
 
 Step 2. Once you have the two pieces back together place pressure where you did
 before (battery slot) and return the four screws that held the body ensuring not
-to overtighten.
+to over tighten.
 
 Step 3. Take the battery and look at the plug at the end of the wire and the
 receptacle now exposed in the battery bay. Line up the notch with the
@@ -132,13 +132,11 @@ trapped. Then simply replace the black plastic and cushion as shown below.
 (Optional step) If you have changed the OS version you may get an error message
 on boot. To fix this hold the power button until the pip boy turns off and then
 hold the radio dial up until it clicks followed by the power button and hold
-both ubtil the device boots. Again changing the version this way should be done
+both until the device boots. Again changing the version this way should be done
 only as a last resort.
 
 ### You should now have succesfully opened and closed your device having optionally upgraded or reset an sd card. Please ensure to keep your stock sd card safe to troubleshoot and issues in future if you have upgraded.
 
-
 <!-- Internal links -- >
 
 <!-- External links -- >
-

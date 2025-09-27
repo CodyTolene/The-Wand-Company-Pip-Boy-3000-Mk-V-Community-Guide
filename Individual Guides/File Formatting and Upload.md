@@ -19,7 +19,7 @@ tools you can use to both convert and upload the files to your device.
 
 ## Community Converter (Windows)
 
-### We have a premade .exe tool based on FFMPEG created by @codytolene right [here][pipboy-media-converter-git] on github. The application can be installed and used by following the instructions on its repository. Alternatively you can follow the guide below to download FFMPEG directly and use it in your shell (terminal)
+### We have a pre-made .exe tool based on FFMPEG created by @codytolene right [here][pipboy-media-converter-git] on github. The application can be installed and used by following the instructions on its repository. Alternatively you can follow the guide below to download FFMPEG directly and use it in your shell (terminal)
 
 ## FFMPEG (All Platforms)
 
@@ -33,7 +33,7 @@ tools you can use to both convert and upload the files to your device.
 
 #### Audio = "ffmpeg -i X -ac 1 -ar 16000 X"
 
-#### Video = "fmpeg -i X -vf "scale=400:-1,format=rgb555le" -r 12 -c:v msrle -pix_fmt pal8 -c:a pcm_s16le -ac 1 -ar 11025 X"
+#### Video = "ffmpeg -i X -vf "scale=400:-1,format=rgb555le" -r 12 -c:v msrle -pix_fmt pal8 -c:a pcm_s16le -ac 1 -ar 11025 X"
 
 #### Once You have FFMPEG installed follow the next steps to convert a file
 
@@ -46,7 +46,7 @@ Step 2. Drag the file from your folder and drop it in to your terminal to get th
 <img width="1427" height="596" alt="Screenshot - Terminal16September2025 3@2x" src="https://github.com/user-attachments/assets/c5819930-2939-407f-a37b-c1dba50d4c46" />
 Step 3. Copy the file path from the terminal and replace the two highlighted X's with it. The first should be copied to where the first x is exactly **However** the second should be adjusted so instead of ".mp4" or ".m4a" it says ".avi". It should look something like this: "ffmpeg -i /Users/theghoul/downloads/my_funny_video.mp4 -vf "scale=400:-1,format=rgb555le" -r 12 -c:v msrle -pix_fmt pal8 -c:a pcm_s16le -ac 1 -ar 11025 /Users/theghoul/downloads/my_funny_video.avi"
 
-Final step: Copy the prewritten command to your terminal and run it, once
+Final step: Copy the pre-written command to your terminal and run it, once
 converted the new file will be placed next to the original and be ready for
 upload in the next section.
 
@@ -68,14 +68,14 @@ Once you click "start upload"the site will add the file to the directory (this m
 
 ## Deleting files
 
-#### To delete files you can use the file browser on the same window and click the trash icon next to any file you no longer want. I would strongly advise against deleting files youre unsure of as you can cause issues. For details on removing audio files to replace them within the radio please see the Custom radio portion of the guide.
-
+#### To delete files you can use the file browser on the same window and click the trash icon next to any file you no longer want. I would strongly advise against deleting files your'e unsure of as you can cause issues. For details on removing audio files to replace them within the radio please see the Custom radio portion of the guide.
 
 <!-- Internal Links -->
 
 <!-- External Links -->
 
-[pipboy-media-converter-git]:https://github.com/CodyTolene/pip-boy-3000-mk-v-media-converter.git
-[install-guide-windows]:https://phoenixnap.com/kb/ffmpeg-windows
-[install-guide-mac]:https://phoenixnap.com/kb/ffmpeg-windows
-[install-guide-ubuntu]:https://phoenixnap.com/kb/install-ffmpeg-ubuntu
+[pipboy-media-converter-git]:
+  https://github.com/CodyTolene/pip-boy-3000-mk-v-media-converter.git
+[install-guide-windows]: https://phoenixnap.com/kb/ffmpeg-windows
+[install-guide-mac]: https://phoenixnap.com/kb/ffmpeg-windows
+[install-guide-ubuntu]: https://phoenixnap.com/kb/install-ffmpeg-ubuntu

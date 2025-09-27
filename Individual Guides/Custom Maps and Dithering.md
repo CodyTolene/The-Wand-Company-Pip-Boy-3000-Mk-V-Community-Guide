@@ -8,9 +8,10 @@ animations with a scrollable map similar to the one in the games, For a tutorial
 on app installation please go **LINK GOES HERE**. The app was created by the
 wand company and issued with their official app loading tool, the basis of which
 cody built our own website around. Below is a tutorial on how to prepare images
-for the app and a link to some preprepared maps made by EpicestGamer and Azrael.
+for the app and a link to some pre-prepared maps made by EpicestGamer and
+Azrael.
 
-#### **All Images Uploaded should be 2048x2048 in Size for Maximum Compatability**
+#### **All Images Uploaded should be 2048x2048 in Size for Maximum Compatibility**
 
 #### [Pre-dithered Images][pre-dithered-images]
 
@@ -18,9 +19,9 @@ for the app and a link to some preprepared maps made by EpicestGamer and Azrael.
 
 Dithering an image involves adding texture to helps limited colour screens show
 more depth of shade by strategically placing pixels next to each other at
-diffent brightnesses to simulate a gradient. This may not be needed entirely but
-most maps we uploaded required this step to ensure detail like roads and icons
-remained clear.
+different brightnesses to simulate a gradient. This may not be needed entirely
+but most maps we uploaded required this step to ensure detail like roads and
+icons remained clear.
 
 ### Windows (provided by EpicestGamer)
 
@@ -32,16 +33,16 @@ First ensure your image is correctly sized
 <img width="290" height="428" alt="image" src="https://github.com/user-attachments/assets/b7c32858-341f-4805-80de-3c7094f4fa50" />
 Next apply the effect within the menu
 <img width="806" height="644" alt="Dither tutorial 2" src="https://github.com/user-attachments/assets/c1f2b715-6af5-449d-bd54-9bec72bc0ee4" />
-Lastly select your dither pattern and bit size. We reccomend these settings or
+Lastly select your dither pattern and bit size. We recommend these settings or
 floydsteinberg but you can play around with it and see what works.
 <img width="1152" height="719" alt="Dither tutorial 3" src="https://github.com/user-attachments/assets/5b5c990b-6700-453c-98eb-34704ea4295c" />
 
 ### Mac (also works on windows as an alternative)
 
 Download and install the [Krita][krita-link] software and get it ready to run.
-Once youre ready follow these steps:
+Once your'e ready follow these steps:
 
-Open your image in Krita and check again its sized corretly (if not like seen
+Open your image in Krita and check again its sized correctly (if not like seen
 here it may still work, Try at your own discretion)
 <img width="2904" height="1832" alt="Screenshot - Krita18September2025@2x" src="https://github.com/user-attachments/assets/dbf4466c-d317-4a54-b78e-7c02b29fa1ac" />
 Next open the G-Mic_qt menu in filters
