@@ -6,9 +6,9 @@ The device ships with very limited RAM and so its to be expected that at times
 it may slow down or struggle to process big tasks, Especially with long uptimes.
 This is usually fixed just by regularly rebooting the device, Most of our apps
 now include a mini reboot both at opening nd closing to help ensure this issue
-isnt persistent.
+isn't persistent.
 
-## Battery Indicator Innacurate
+## Battery Indicator Inaccurate
 
 This is less of a bug and moe just a limitation of how the circuit gauges the
 battery level. Currently there is no fix and its just a quirk we have to live
@@ -22,7 +22,7 @@ may not show as space having been freed.
 
 ## Apps Fail to Download/Install
 
-Sometimes the app loader has trouble installignapps to your device. This can be
+Sometimes the app loader has trouble installing apps to your device. This can be
 due to a myriad of circumstances too long to list here. The best practice is to
 try again and if you experience any further problems with the device not
 behaving as normal after you should follow the troubleshooting steps
@@ -55,8 +55,8 @@ a definitive problem theres a few things to check first:
 - Reboot the device by going to DATA>MAINTENANCE>REBOOT
 - Check the cable is correctly seated both in the computers port and the
   Pip-boys cable port
-- Try a differenct cable to rule out problems with that specific one (even if
-  the cable allows the device to charge it may still be damaged to prevent data
+- Try a different cable to rule out problems with that specific one (even if the
+  cable allows the device to charge it may still be damaged to prevent data
   transfer) If after checking these things you still have no luck the next step
   will be to reach out to the community discord for further troubleshooting. You
   can find the link on the index page of this repository.
@@ -65,7 +65,7 @@ a definitive problem theres a few things to check first:
 
 There is a know issue where trying to remove the motherboard of your device
 causes a particular component to crack the lcd screen. To avoid this you should
-be extra careful always when trying to remove any components beyony the sd card.
+be extra careful always when trying to remove any components beyond the sd card.
 In the instance that you break your screen this way or any other way you should
 contact the wand company for repair or replacement
 [here](https://www.thewandcompany.com/contact-us/)
@@ -73,7 +73,7 @@ contact the wand company for repair or replacement
 
 ## Screen Blank/ No picture (sound still functioning, rad meter light on)
 
-Sometimes the screen can fail to light if the pip-boy hasnt been rebooted in a
+Sometimes the screen can fail to light if the pip-boy hasn't been rebooted in a
 while or if theres a small bug etc. Most of the time it can be fixed following
 the steps provided in the
 [troubleshooting](https://github.com/beaverboy-12/The-Wand-Company-Pip-Boy-3000-Mk-V-Community-Guide/blob/main/Individual%20Guides/Basic%20device%20Info%20and%20Troubleshooting.md)
@@ -83,10 +83,10 @@ section.
 
 If the screen is blank and there is also no sound or lights on the rad meter
 then there may be a larger issue. To check the screen functions you can use the
-"Factory test" or "demo" function withtin the maintenance tab of the
+"Factory test" or "demo" function within the maintenance tab of the
 [Pip-boy](https://pip-boy.com/3000-mk-v/maintenance) website. If the problem
 persists and normal
 [troubleshooting](https://github.com/beaverboy-12/The-Wand-Company-Pip-Boy-3000-Mk-V-Community-Guide/blob/main/Individual%20Guides/Basic%20device%20Info%20and%20Troubleshooting.md)
-doesnt work then please follow the link
+doesn't work then please follow the link
 [here](https://www.thewandcompany.com/contact-us/) to contact the manufacturer
-for futher help.
+for further help.
